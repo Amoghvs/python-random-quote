@@ -1,4 +1,4 @@
-def ur():
+def mmm():
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def ur():
   #print(quotes)
 
 if __name__== "__main__":
-  ur()
+  mmm()
